@@ -1,0 +1,46 @@
+
+# 2025-11-20 19:16:26.874062
++Code the following app
++```
++Idea: A "New Pair Explorer" for DEXs (Decentralized Exchanges) to find newly created pools.
++User Goal: Be the first to find new meme coins or utility tokens before they pump (High Risk).
++Core Features (MVP):
++
++* Listen to "PairCreated" events on Uniswap/PancakeSwap factories.
++* Filter by: Initial Liquidity > $X, Token Name, Renounced Ownership (basic check).
++* Link to the verified contract on Etherscan/BscScan.
++* "HoneyPot" check integration (using third-party API).
++
++Development Plan:
++
++1. Use libraries like Ethers.js or Viem to connect to RPC nodes (ETH, BSC, Base).
++2. Set up an event listener for Factory contracts.
++3. Build a live-feed UI (scrolling list of new pairs).
++4. Integrate a quick security check API (e.g., GoPlus or HoneyPot.is).
++5. Add sound alerts for new pairs matching filters.
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-20 19:16:26.874956
++Code the following app
++```
++Idea: A "New Pair Explorer" for DEXs (Decentralized Exchanges) to find newly created pools.
++User Goal: Be the first to find new meme coins or utility tokens before they pump (High Risk).
++Core Features (MVP):
++
++* Listen to "PairCreated" events on Uniswap/PancakeSwap factories.
++* Filter by: Initial Liquidity > $X, Token Name, Renounced Ownership (basic check).
++* Link to the verified contract on Etherscan/BscScan.
++* "HoneyPot" check integration (using third-party API).
++
++Development Plan:
++
++1. Use libraries like Ethers.js or Viem to connect to RPC nodes (ETH, BSC, Base).
++2. Set up an event listener for Factory contracts.
++3. Build a live-feed UI (scrolling list of new pairs).
++4. Integrate a quick security check API (e.g., GoPlus or HoneyPot.is).
++5. Add sound alerts for new pairs matching filters.
++```
++
++Generate an app logo and update the app metadata title and description.
